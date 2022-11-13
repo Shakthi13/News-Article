@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/new_first"
+        android:title="Sort By (newest first)"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/old_first"
+        android:title="Sort By (oldest first)"
+        app:showAsAction="never"/>
+
+</menu>
